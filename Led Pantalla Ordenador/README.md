@@ -4,7 +4,7 @@ Cosas útiles diseñadas con FreeCad
 **Aquí os dejo algunos ejemplos del contenido**
 
 <p align="center">
-  <img src="https://github.com/altenife/Cositas-FreeCad/blob/main/Imagenes/Luz%20para%20ordenador%20portatil%20o%20monitor%20(2).jpg"></p>
+  <img src="https://github.com/altenife/Cositas-FreeCad/blob/main/Led%20Pantalla%20Ordenador/Imagenes/Luz%20para%20ordenador%20portatil%20o%20monitor%20(2).jpg"></p>
    
 ## Proyectos construidos con 🛠️
 
